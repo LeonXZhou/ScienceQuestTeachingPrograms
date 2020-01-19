@@ -1,3 +1,4 @@
+#By Leon Zhou
 import pygame as pygame #import required modules
 import random as random # note we imported random not just pygame.
 # The below code shows how to add a player as just a shape without

@@ -1,3 +1,4 @@
+#By Leon Zhou
 import pygame as pygame #import required modules
 
 # The below code shows how to add a player as an image without

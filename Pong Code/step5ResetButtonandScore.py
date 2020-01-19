@@ -1,3 +1,5 @@
+#By Leon Zhou
+
 import pygame as pygame #import required modules
 import random as random
 # The below code documents the implementation of text display and buttons.

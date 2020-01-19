@@ -1,3 +1,4 @@
+#By Leon Zhou
 import pygame as pygame #import required modules
 
 #Here we create a display object. We call it screen.

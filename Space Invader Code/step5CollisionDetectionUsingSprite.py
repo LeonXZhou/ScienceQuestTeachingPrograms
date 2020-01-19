@@ -1,6 +1,7 @@
+#By Leon Zhou
 import pygame as pygame #import required modules
 
-# Here we implement the colission detection for aliens. 
+# Here we implement the colission detection for aliens.
 
 class aliens(pygame.sprite.Sprite):
     xpos = 0

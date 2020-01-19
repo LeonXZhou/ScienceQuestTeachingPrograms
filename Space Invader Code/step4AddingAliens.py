@@ -1,3 +1,4 @@
+#By Leon Zhou
 import pygame as pygame #import required modules
 
 # Here we are implementing aliens. We continue from addingOProjectileSprite.py

@@ -1,3 +1,4 @@
+#By Leon Zhou
 import pygame as pygame #import required modules
 
 # Here we implement the projectiles by extending the sprite class.
