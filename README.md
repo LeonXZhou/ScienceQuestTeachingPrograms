@@ -35,6 +35,7 @@ There are 5 pieces of progressivley developing code to implement space invader. 
   <li>Step 4: add in aliens. This is the main focus of this project. The nature of space invader aliens makes it a prime example of how arrays can be utilized in a "real world" scenario.  </li>
   <li>Step 5: implement pygame collision detection: It would be a bit complicated to explain collision detection for an array of objects to target age group. We leverage pygames build in collision detection. Explain at a high level how modules are prebuild functionality by other deverlopers that we can use.  </li>
 </ol>
+
 ### Key Concepts:
 * arrays
 * objects
