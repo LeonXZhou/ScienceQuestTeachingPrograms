@@ -26,6 +26,8 @@ Allow students to expierement with the game at this point. Suggest options such 
 * loops
 * conditionals
 
+!["PONG"](https://github.com/LeonXZhou/ScienceQuestTeachingPrograms/blob/master/Screenshots/Pong.png)
+
 ## Space Invader!
 There are 5 pieces of progressivley developing code to implement space invader. This excersise should reinforce many of the concepts from pong, such as how elements move, conditionals, loops, and variables. Main focus should be on further developing the concept of arrays and the introduction of objects. 
 <ol>
@@ -39,3 +41,5 @@ There are 5 pieces of progressivley developing code to implement space invader. 
 ### Key Concepts:
 * arrays
 * objects
+
+!["SPACE INVADER"](https://github.com/LeonXZhou/ScienceQuestTeachingPrograms/blob/master/Screenshots/Space.png)
